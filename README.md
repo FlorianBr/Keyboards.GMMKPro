@@ -1,5 +1,7 @@
 # GMMK Pro
 
+Warning: I rarely use this keyboard anymore, so this repo is probably out of date!
+
 ![GMMK Pro](GMMKPro.jpg)
 
  - US Layout (more or less...)
